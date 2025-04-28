@@ -1,0 +1,19 @@
+.arial {
+    font-family: Arial, sans-serif;
+}
+
+.letra {
+    font-size: 16px;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+.alineado {
+    text-align: center;
+}
